@@ -27,4 +27,4 @@ require('./utils/handlers/editHandles')(client, message);
 
 
 
-client.login("MTIxOTE1ODQyMjA1NDc2ODY1MA.GrDedq.a4i_l5pZFVYGXQo8VBTuW8WPjYT1QfOy-iEMwQ")
+client.login("TOKEN")
