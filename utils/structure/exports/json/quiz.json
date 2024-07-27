@@ -1,0 +1,31 @@
+[
+	{
+		"question": "What is the most popular code language?",
+		"answers": ["py", "python"]
+	},
+	{
+		"question": "How many letters are there in the alphabet?",
+		"answers": ["26", "twenty-six", "twenty six", "twentysix"]
+	},
+
+	{
+		"question": "Who is the most subscribed YouTube channel?",
+		"answers": ["mrbeast", "MrBeast", "MRBEAST", "MRBeast" ]
+	},
+  {
+		"question": "Who is the richest person in the world?",
+		"answers": ["Elon Musk", "ELON MUSK", "elon musk"]
+	},
+  {
+		"question": "10+9?",
+		"answers": ["21", "twenty-one", "twenty one", "twentyone"]
+	},
+  {
+		"question": "What is the biggest planet in our galaxy?",
+		"answers": ["Jupiter", "jupiter"]
+	},
+    {
+		"question": "What does LOL mean?",
+		"answers": ["Laughing Out Loud", "laughing out loud"]
+	}
+]
